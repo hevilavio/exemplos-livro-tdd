@@ -1,9 +1,13 @@
-package br.livro.mauricioaniche;
+package br.livro.mauricioaniche.cap7;
 
 import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import br.livro.mauricioaniche.cap7.CalculadoraDeSalario;
+import br.livro.mauricioaniche.cap7.Cargo;
+import br.livro.mauricioaniche.cap7.Funcionario;
 
 public class CalculadoraDeSalarioTest {
 

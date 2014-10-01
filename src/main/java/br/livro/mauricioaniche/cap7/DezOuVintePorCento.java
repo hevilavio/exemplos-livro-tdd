@@ -1,4 +1,4 @@
-package br.livro.mauricioaniche;
+package br.livro.mauricioaniche.cap7;
 
 public class DezOuVintePorCento implements RegraDeCalculo {
 
